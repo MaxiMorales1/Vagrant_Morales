@@ -1,0 +1,124 @@
+    1  git clone https://github.com/MaxiMorales1/Vagrant_Morales.git
+    2  cd ..
+    3  ls
+    4  vagrant
+    5  cd ..
+    6  cleart
+    7  clear
+    8  ls
+    9  exit
+   10  ls
+   11  vagrant_morales
+   12  clear
+   13  ls
+   14  cd carpeta_compartida/
+   15  cd ..
+   16  cd Vagrant_Morales/
+   17  git status
+   18  cd ..
+   19  exit
+   20  ls
+   21  whoami
+   22  pwd
+   23  man man
+   24  man ls
+   25  ls-l
+   26  ls -l
+   27  ls -qa
+   28  ls -a
+   29  ls -la
+   30  clear
+   31  history
+   32  ls
+   33  ls -la
+   34  cd ..
+   35  ls
+   36  cd repogit
+   37  ls -la
+   38  ls -ls
+   39  ls
+   40  cd
+   41  ls
+   42  cd Vagrant_Morales/
+   43  ls
+   44  cd
+   45  cd repogit
+   46  ls -la
+   47  ls -l
+   48  ls
+   49  cd ..
+   50  ls -la
+   51  cd .ssh
+   52  cat id_ed25519.pub
+   53  cd
+   54  cd ..
+   55  ls
+   56  cd ..
+   57  ls
+   58  exit
+   59  ssh-keygen -t ed25519
+   60  ls -la
+   61  cd .ssh
+   62  ls
+   63  cat id_ed25519.pub
+   64  cd_repogit
+   65  cd repogit
+   66  cd ..
+   67  ls
+   68  cd repogit
+   69  ls -la
+   70  git clone git@github.com:MaxiMorales1/Vagrant_Morales.git
+   71  ls
+   72  git clone git@github.com:MaxiMorales1/Vagrant_Morales.git
+   73  ls
+   74  ls -ls
+   75  ls -la
+   76  git clone git@github.com:MaxiMorales1/Vagrant_Morales.git
+   77  ls
+   78  clear
+   79  history
+   80  git clone git@github.com:MaxiMorales1/Vagrant_Morales.git 
+   81  cd repogit
+   82  ls
+   83  ls -la
+   84  ssh-keygen -t ed25519
+   85  ls
+   86  cd repogit
+   87  ls
+   88  ssh-keygen -t ed25519
+   89  ls
+   90  ls -la
+   91  ls la
+   92  ls -la
+   93  ls -ls
+   94  cd .ssh
+   95  cd ..
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd vagrant
+  100  ssh-keygen -t ed25519
+  101  ls -la
+  102  cd .ssh
+  103  ls
+  104  cat id_ed25519.pub
+  105  cd
+  106  cd repogit
+  107  ls
+  108  cd
+  109  ls
+  110  cd Vagrant_Morales/
+  111  ls
+  112  git clone git@github.com:MaxiMorales1/Vagrant_Morales.git
+  113  ls
+  114  cd Vagrant_Morales/
+  115  ls
+  116  cd
+  117  cd repogit
+  118  ls
+  119  ls -la
+  120  git status
+  121  ls
+  122  cd Vagrant_Morales/
+  123  history
+  124  history > Texto1.txt
